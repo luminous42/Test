@@ -1,0 +1,6 @@
+1. write an algorithm.
+2. check its logic
+3. look for solutions if any.
+4. start coding
+5. test and debug
+6. push it to github.
