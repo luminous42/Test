@@ -4,8 +4,6 @@
 4. start coding
 5. test and debug
 6. push it to github.
-
-
 7. make some changes creates branches of the main
 then need to stage them with git add
 and the 
